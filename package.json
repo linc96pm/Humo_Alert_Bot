@@ -1,0 +1,17 @@
+{
+  "name": "Telegram_Alert_Bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev index1.js",
+    "start": "build index1.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.40.0",
+    "request": "^2.88.2"
+  }
+}
